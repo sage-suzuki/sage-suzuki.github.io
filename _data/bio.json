@@ -16,10 +16,10 @@
   },
   "interests": [
     { "name": "A.I." },
-    { "name": "Software Development" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Open Source" },
+    { "name": "Web App Development" },
+    { "name": "Cyber Security" },
+    { "name": "Cloud Computing" }
   ],
   "skills": [
     {
