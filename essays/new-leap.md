@@ -19,7 +19,7 @@ Navigating the world of programming languages can feel like exploring a vast pla
 
 ## Tomayto, Tomahto
 
-Sure, their syntaxes might share a resemblance, but Javascript doesn't care about the rules, it doesn't sweat the small stuff like data types. It gives you all the power, maybe not all the power, but less restrictions and more creative freedom! Embracing this freedom will give us more passion to become better coders. 
+Sure, their syntaxes might share a resemblance, but Javascript doesn't care about the rules, it doesn't sweat the small stuff like data types. It’s an open-air market where anything goes; strings, numbers, even paragraphs can be put into a single variable without second glance. It gives you all the power, maybe not all the power, but less restrictions and more creative freedom! Embracing this freedom will give us more passion to become better coders. 
 
 ## No Pain, No Gain
 
