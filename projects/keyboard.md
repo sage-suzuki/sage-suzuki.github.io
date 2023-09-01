@@ -25,18 +25,4 @@ This venture involved an intricate process that spanned from conception to distr
 ### Reflection
 My commitment to excellence extended to packaging and distribution, where careful handling guaranteed the keyboards reached their new owners in pristine condition. Through a harmonious fusion of technical expertise and creative customization, this project not only provided customers with a means of expression but also enabled me to immerse myself in the captivating realm of DIY electronics and entrepreneurship.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more about the world of custom keyboards in [Alextos' Intro To Keyboards](https://www.alexotos.com/into-custom-keyboards/).
