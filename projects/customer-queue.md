@@ -41,8 +41,3 @@ This assignment provided a fundamental framework for the simulation and manageme
 			
 ## Reflection
 This assignment provided a fundamental framework for the simulation and management of a system involving a variety of arriving customers with processing needs, while also enabling chronological sorting for analytical insights. By working through this task, I not only deepened my understanding of Java programming concepts and techniques but also honed my problem-solving skills, which I'm eager to apply in future projects.
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
