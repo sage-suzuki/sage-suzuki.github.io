@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "sage-suzuki", "url": "http://github.com/sage-suzuki" },
-      { "network": "linkedin", "username": "sage-suzuki", "url": "http://linkedin.com/in/sage-suzuki" },
-      { "network": "instagram", "username": "suzuki.sage", "url": "http://instagram.com/suzuki.sage" }
+      { "network": "linkedin", "username": "sage-suzuki", "url": "http://linkedin.com/in/sage-suzuki" }
     ]
   },
   "interests": [
