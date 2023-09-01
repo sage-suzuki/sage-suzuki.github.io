@@ -7,7 +7,7 @@ date: 2015
 published: true
 labels:
   - Java
-summary: "Java code creates a "Customer" class for simulating a system with arrival and service times, allowing chronological sorting and organization of customer objects."
+summary: "Java code creates a "Customer" class for simulating a system with arrival and service times, allowing chronological sorting and organization of customer objects.
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
