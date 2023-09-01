@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/oit/oit-pfp.jpeg
 title: "Jabsom OIT"
 date: 2023-6-20
 published: true
@@ -9,10 +9,10 @@ labels:
   - Script
   - JavaScript
   - IT Support
-summary: "I'm currently a part of the John A Burns School of Medicine."
+summary: "I'm currently a part of the John A Burns School of Medicine OIT Department."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/oit/oit.jpeg"><img class="img-fluid" src="../img/oit/oit1.jpeg">
 
 Over the early part of this summer, I had the privilege of joining the John A. Burns School of Medicine's OIT (Office of Information Technology) department. In addition to handling basic IT tasks, I was introduced to the world of command-line operations and basic scripting. This exposure has been immensely valuable, as it has equipped me with the skills to diagnose and resolve computer issues, particularly when dealing with diverse operating systems and software, including compatibility challenges.
 
