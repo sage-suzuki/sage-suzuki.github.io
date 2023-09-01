@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/customer/vacay-square.png
+image: img/customer/customer.jpeg
 title: "Customer Queue"
 date: 2023-4-12
 published: true
