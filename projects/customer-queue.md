@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/customer/vacay-square.png
 title: "Customer Queue"
-date: 2015
+date: 2023-4-12
 published: true
 labels:
   - Java
