@@ -16,26 +16,26 @@ This defines a class named "Customer" aiming to simulate a customer system, pote
 This assignment provided a fundamental framework for the simulation and management of a system involving a variety of arriving customers with processing needs, while also enabling chronological sorting for analytical insights. By working through this task, I not only deepened my understanding of Java programming concepts and techniques but also honed my problem-solving skills, which I'm eager to apply in future projects.
 <hr>
 <pre>
-		for(int i = 0; i < cashiers.length; i++) {
-			if(currentTime >= cashiers[i]) {
-				// Single queue implementation
-				if(singleQueue) {
-					if(queues[0].isEmpty()) continue;
-					Customer nextCustomer = queues[0].poll();
-					customersHelped++;
-					cashiers[i] = currentTime + nextCustomer.serviceTime;
-					totalWaitingTime += currentTime - nextCustomer.arrivalTime;
-				}
-				// Multiple queue implementation
-				else {
-					if(queues[i].isEmpty()) continue;
-					Customer nextCustomer = queues[i].poll();
-					customersHelped++;
-					cashiers[i] = currentTime + nextCustomer.serviceTime;
-					totalWaitingTime += currentTime - nextCustomer.arrivalTime;
-				}
+	for(int i = 0; i < cashiers.length; i++) {
+		if(currentTime >= cashiers[i]) {
+			// Single queue implementation
+			if(singleQueue) {
+				if(queues[0].isEmpty()) continue;
+				Customer nextCustomer = queues[0].poll();
+				customersHelped++;
+				cashiers[i] = currentTime + nextCustomer.serviceTime;
+				totalWaitingTime += currentTime - nextCustomer.arrivalTime;
+			}
+			// Multiple queue implementation
+			else {
+				if(queues[i].isEmpty()) continue;
+				Customer nextCustomer = queues[i].poll();
+				customersHelped++;
+				cashiers[i] = currentTime + nextCustomer.serviceTime;
+				totalWaitingTime += currentTime - nextCustomer.arrivalTime;
 			}
 		}
+	}
 </pre>
 <hr>
 			
