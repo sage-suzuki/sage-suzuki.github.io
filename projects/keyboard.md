@@ -24,3 +24,6 @@ This venture involved an intricate process that spanned from conception to distr
 My commitment to excellence extended to packaging and distribution, where careful handling guaranteed the keyboards reached their new owners in pristine condition. Through a harmonious fusion of technical expertise and creative customization, this project not only provided customers with a means of expression but also enabled me to immerse myself in the captivating realm of DIY electronics and entrepreneurship.
 
 You can learn more about the world of custom keyboards in [Alextos' Intro To Keyboards](https://www.alexotos.com/into-custom-keyboards/).
+
+<img width="440px" src="../img/keyboard/keyboard3.jpeg" class="img-thumbnail" >
+<img width="440px" src="../img/keyboard/keyboard4.jpeg" class="img-thumbnail" >
