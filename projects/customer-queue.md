@@ -6,7 +6,7 @@ title: "Customer Queue"
 date: 2015
 published: true
 labels:
-  - Java
+  -- Java
 summary: "Java code creates a Customer class for simulating a system with arrival and service times, allowing chronological sorting and organization of customer objects.
 ---
 
