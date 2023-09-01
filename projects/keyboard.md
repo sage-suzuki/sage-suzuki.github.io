@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/keyboard/keyboard-pfp.jpeg
 title: "Keyboard Assembling"
 date: 2020-2022
 published: true
@@ -15,7 +15,7 @@ summary: "Assembled and sold customized mechanical keyboards and parts."
 During the spike of covid, I explored my entrepreneurial endeavor, I embarked on a captivating project centered around crafting and selling personalized keyboards tailored to the unique preferences of tech enthusiasts and keyboard aficionados. 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/keyboard/keyboard.png" class="img-thumbnail" >
+  <img width="440px" src="../img/keyboard/keyboard.png" class="img-thumbnail" >
 </div>
 
 This venture involved an intricate process that spanned from conception to distribution. Sourcing top-tier components, I ensured the highest quality switches, keycaps, and cases to offer an unparalleled typing experience. The assemblage phase demanded precision soldering and meticulous attention to detail as each keyboard was meticulously brought to life.
