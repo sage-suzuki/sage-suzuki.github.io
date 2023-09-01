@@ -30,3 +30,5 @@ Debloat Script:
 iwr -useb https://christitus.com/win | iex
 </pre>
 <hr>
+
+OIT Department Site: https://oit.jabsom.hawaii.edu/
