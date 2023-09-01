@@ -25,5 +25,4 @@ My commitment to excellence extended to packaging and distribution, where carefu
 
 You can learn more about the world of custom keyboards in [Alextos' Intro To Keyboards](https://www.alexotos.com/into-custom-keyboards/).
 
-<img width="440px" src="../img/keyboard/keyboard3.jpeg" class="img-thumbnail" >
-<img width="440px" src="../img/keyboard/keyboard4.jpeg" class="img-thumbnail" >
+<img width="440px" src="../img/keyboard/keyboard3.jpeg" class="img-thumbnail" ><img width="440px" src="../img/keyboard/keyboard4.jpeg" class="img-thumbnail" >
