@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/new-leap/leap.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/new-leap/leap.jpeg">
 
 ## A New Leap
 
