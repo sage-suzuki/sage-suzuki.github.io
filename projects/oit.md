@@ -6,9 +6,10 @@ title: "Jabsom OIT"
 date: 2023-6-20
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Script
+  - JavaScript
+  - IT Support
+summary: "I'm currently a part of the John A Burns School of Medicine."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
