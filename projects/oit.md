@@ -31,4 +31,4 @@ iwr -useb https://christitus.com/win | iex
 </pre>
 <hr>
 
-OIT Department Site: https://oit.jabsom.hawaii.edu/
+OIT Department Site: [JABSOM OIT](https://oit.jabsom.hawaii.edu/)
