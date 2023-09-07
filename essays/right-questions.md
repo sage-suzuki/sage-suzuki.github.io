@@ -27,8 +27,7 @@ What sets this inquiry apart is the author's prudent approach. Instead of hastil
 
 This question epitomizes the essence of effective inquiry within programming forums. It embodies the principles of coherent problem elucidation, the provision of a well-structured code sample, and the cultivation of a collaborative and analytical atmosphere conducive to thoughtful responses.
  
-<img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightanswer1.png">
-<img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightanswer2.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/right-questions/rightanswer1.png"> <img width="500px" class="rounded float-start pe-4" src="../img/right-questions/rightanswer2.png">
 
 The provided solution further reveals an excellent example of effective assistance. The responder not only addresses the question at hand but also furnishes the correct code and offers insights into why the original code was ineffective. Going the extra mile, the respondent includes hyperlinks to external resources, providing the questioner with additional details and references to delve deeper into the subject matter. This comprehensive and informative response showcases the ideal approach to aiding fellow programmers, emphasizing both problem resolution and knowledge sharing.
 
