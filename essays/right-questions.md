@@ -11,11 +11,9 @@ labels:
   - StackOverflow
 ---
 
-
-
 ## We've Been Lied To
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” However, as I've navigated through various learning environments, I've come to realize that this statement is not an absolute truth. There are, without a doubt, questions that are hastily conceived or insufficiently researched, and they tend to elicit frustration and unproductive responses. It's essential to acknowledge that the ability to ask intelligent questions is a skill that can be honed. We must strive to cultivate a culture of constructive and considerate knowledge sharing.
 
 ## What’s a smart question?
 
