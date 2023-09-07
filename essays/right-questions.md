@@ -15,61 +15,27 @@ labels:
 
 I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” However, as I've navigated through various learning environments, I've come to realize that this statement is not an absolute truth. There are, without a doubt, questions that are hastily conceived or insufficiently researched, and they tend to elicit frustration and unproductive responses. It's essential to acknowledge that the ability to ask intelligent questions is a skill that can be honed. We must strive to cultivate a culture of constructive and considerate knowledge sharing.
 
-## Whose the Doctor 
+## Examination Symtoms 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightquestion1.png">
-<img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightquestion2.png">
+When venturing onto Stack Overflow, it's akin to visiting a doctor's office, but for coding ailments. Instead of a medical practitioner, you're met with a community of like-minded individuals eager to offer their assistance. Therefore, when posing a question, it's imperative to ensure that you provide ample information, correct details, and the most comprehensive context to facilitate effective help.
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+<img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightquestion1.png"> <img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightquestion2.png">
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+The example provided above exemplifies the art of furnishing precise and informative details. The individual adeptly and concisely delineates the sequence of actions within their code, thereby enhancing clarity and context for potential responders. By sharing their source code, they empower fellow programmers to identify potential syntax errors and grasp a profound comprehension of the program's functionality and the underlying issue.
 
+What sets this inquiry apart is the author's prudent approach. Instead of hastily labeling their issue as a bug or resorting to a generic "my code isn't working" statement, they meticulously describe the problem and seek assistance from the forum in a respectful and courteous manner, devoid of excessive pleading or self-deprecation.
+
+This question epitomizes the essence of effective inquiry within programming forums. It embodies the principles of coherent problem elucidation, the provision of a well-structured code sample, and the cultivation of a collaborative and analytical atmosphere conducive to thoughtful responses.
+ 
 <img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightanswer1.png">
 <img width="300px" class="rounded float-start pe-4" src="../img/right-questions/rightanswer2.png">
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+The provided solution further reveals an excellent example of effective assistance. The responder not only addresses the question at hand but also furnishes the correct code and offers insights into why the original code was ineffective. Going the extra mile, the respondent includes hyperlinks to external resources, providing the questioner with additional details and references to delve deeper into the subject matter. This comprehensive and informative response showcases the ideal approach to aiding fellow programmers, emphasizing both problem resolution and knowledge sharing.
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
+## Common Sense
 
 <img width="300px" class="rounded float-start pe-4" src="../img/right-questions/dumbquestion.png">
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+The example above serves as a prime example of what one should avoid when seeking help. In this case, the user approached the forum as if it were a search engine, offering only the most basic description of their issue. The question suffered from a glaring lack of clarity and detail, making it challenging for potential helpers to grasp the problem fully. A critical shortcoming was the absence of any code snippets or error messages, two vital components for effective troubleshooting. The one commendable aspect of the user's post was their inclusion of appropriate tags, which, while helpful for categorization, could not compensate for the overall lack of essential information needed for a meaningful response.
 
 ## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
