@@ -19,7 +19,7 @@ I’ve had instructors address a whole class and say, “There’s no such thing
 
 When venturing onto Stack Overflow, it's akin to visiting a doctor's office, but for coding ailments. Instead of a medical practitioner, you're met with a community of like-minded individuals eager to offer their assistance. Therefore, when posing a question, it's imperative to ensure that you provide ample information, correct details, and the most comprehensive context to facilitate effective help.
 
-<img class="ui large centered image" src="../img/right-questions/rightquestion1.png"> <img class="ui large centered image" src="../img/right-questions/rightquestion2.png">
+<img width="500px" img class="ui large centered image" src="../img/right-questions/rightquestion1.png"> <img width="500px" img class="ui large centered image" src="../img/right-questions/rightquestion2.png">
 
 The example provided above exemplifies the art of furnishing precise and informative details. The individual adeptly and concisely delineates the sequence of actions within their code, thereby enhancing clarity and context for potential responders. By sharing their source code, they empower fellow programmers to identify potential syntax errors and grasp a profound comprehension of the program's functionality and the underlying issue.
 
@@ -27,13 +27,13 @@ What sets this inquiry apart is the author's prudent approach. Instead of hastil
 
 This question epitomizes the essence of effective inquiry within programming forums. It embodies the principles of coherent problem elucidation, the provision of a well-structured code sample, and the cultivation of a collaborative and analytical atmosphere conducive to thoughtful responses.
  
-<img class="ui large centered image" src="../img/right-questions/right-questions/rightanswer1.png"> <img class="ui large centered image" src="../img/right-questions/right-questions/rightanswer2.png">
+<img width="500px" img class="ui large centered image" src="../img/right-questions/right-questions/rightanswer1.png"> <img width="500px" img class="ui large centered image" src="../img/right-questions/right-questions/rightanswer2.png">
 
 The provided solution further reveals an excellent example of effective assistance. The responder not only addresses the question at hand but also furnishes the correct code and offers insights into why the original code was ineffective. Going the extra mile, the respondent includes hyperlinks to external resources, providing the questioner with additional details and references to delve deeper into the subject matter. This comprehensive and informative response showcases the ideal approach to aiding fellow programmers, emphasizing both problem resolution and knowledge sharing.
 
 ## Common Sense
 
-<img class="ui large centered image" src="../img/right-questions/dumbquestion.png">
+<img width="500px" img class="ui large centered image" src="../img/right-questions/dumbquestion.png">
 
 The example above serves as a prime example of what one should avoid when seeking help. In this case, the user approached the forum as if it were a search engine, offering only the most basic description of their issue. The question suffered from a glaring lack of clarity and detail, making it challenging for potential helpers to grasp the problem fully. A critical shortcoming was the absence of any code snippets or error messages, two vital components for effective troubleshooting. The one commendable aspect of the user's post was their inclusion of appropriate tags, which, while helpful for categorization, could not compensate for the overall lack of essential information needed for a meaningful response.
 
