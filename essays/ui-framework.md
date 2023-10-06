@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Allure of Bootstrap 5"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
@@ -11,44 +11,26 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+UI Frameworks can initially appear as intricate as a new programming language, leaving many to ponder the necessity of diving into them when raw HTML and CSS seem like simpler alternatives. However, beneath the veil of complexity lies a wealth of benefits that make the journey into UI frameworks undeniably rewarding.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## The Hidden Benefits
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+UI frameworks, despite their learning curve, offer substantial advantages that can transform your web development experience. They provide pre-designed components and styles, significantly speeding up the creation of web interfaces. Additionally, they ensure a consistent design throughout your application, sparing you from the inconsistencies often associated with haphazard HTML and CSS. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Responsive design becomes more accessible, allowing you to craft websites that gracefully adapt to different screens. UI frameworks also alleviate the headache of compatibility issues across various browsers, providing a more consistent and predictable user experience. Furthermore, thriving communities surrounding these frameworks provide invaluable documentation, tutorials, and a wealth of third-party resources, making your development journey smoother and more supported.
 
-Here's what I think: the difficult things will always be difficult.
+## The Star Player
 
-## In the context of programming
+Among UI frameworks, Bootstrap 5 shines brightly as a user-friendly option that embodies simplicity and versatility. It streamlines the development process, ensuring both efficiency and consistency. Bootstrap's key features include a responsive grid system that simplifies the creation of flexible and responsive layouts, enhancing the user experience. It offers default styles while maintaining easy customization, allowing you to tailor your website's appearance to match your brand or artistic vision. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Additionally, Bootstrap boasts an extensive library of UI components such as navigation bars and forms, saving you valuable development time. Not to be overlooked, Bootstrap places a strong emphasis on accessibility, ensuring that web applications are inclusive for users of all abilities, aligning with ethical standards and expanding the reach of your digital creations.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## UI Frameworks vs. Raw HTML and CSS
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+While the allure of simplicity may draw you toward raw HTML and CSS, this path comes with its own set of challenges. Building everything from scratch can be time-consuming, especially for complex layouts, and custom code is often less maintainable, leading to difficulties in managing future updates. Achieving design and user experience consistency becomes a daunting task without the guidance of a UI framework.
 
-## In the context of engineering
+## Embrace the Challenge for Rich Rewards
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+UI frameworks, despite their initial complexities, offer an array of benefits that can greatly enhance your web development journey. Bootstrap 5, with its user-friendliness and versatility, streamlines development and ensures consistency in design and user experience. While raw HTML and CSS have their place, UI frameworks bring undeniable advantages to the table.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+So, embrace the challenge, for UI frameworks unlock a world of possibilities and support for developers, making them an invaluable tool in the ever-evolving landscape of web development.
