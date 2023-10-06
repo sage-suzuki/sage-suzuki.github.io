@@ -11,8 +11,8 @@ labels:
   - CSS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ui-framework/ui-framework.webp">
-<img width="200px" class="rounded float-start" src="../img/ui-framework/jack-watkins.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/ui-framework/ui-framework.webp">
+<img width="400px" class="rounded float-start" src="../img/ui-framework/jack-watkins.jpg">
 
 UI Frameworks can initially appear as intricate as a new programming language, leaving many to ponder the necessity of diving into them when raw HTML and CSS seem like simpler alternatives. However, beneath the veil of complexity lies a wealth of benefits that make the journey into UI frameworks undeniably rewarding.
 
