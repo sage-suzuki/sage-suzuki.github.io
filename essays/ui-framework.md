@@ -6,10 +6,13 @@ title: "The Allure of Bootstrap 5"
 date: 2023-10-05
 published: true
 labels:
-  - Engineering
+  - HTML
+  - Bootstrap
+  - CSS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ui-framework/ui-framework">
+<img width="200px" class="rounded float-start" src="../img/ui-framework/another_image.jpg">
 
 UI Frameworks can initially appear as intricate as a new programming language, leaving many to ponder the necessity of diving into them when raw HTML and CSS seem like simpler alternatives. However, beneath the veil of complexity lies a wealth of benefits that make the journey into UI frameworks undeniably rewarding.
 
