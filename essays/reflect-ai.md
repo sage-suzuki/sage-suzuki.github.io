@@ -49,7 +49,7 @@ Co-Pilot expedited coding, yet understanding and verifying the generated code de
 *Documenting code:*
 Co-Pilot provided a structured starting point for documentation, reducing initial effort. Customization for project-specific requirements showcased the need for human input in tailoring documentation.
 
-*Quality assurance e.g., "What’s wrong with this code <code here>":* 
+*Quality assurance e.g., "What's wrong with this code <code here> ":* 
 ChatGPT would more often than not say there is nothing wrong with the code. In other words, ChatGPT wouldn't catch errors, and the user would have to have to create a prompt of the where the error would be, and still possibily be undetected.
 
 *Other uses in ICS 314 not listed:*
