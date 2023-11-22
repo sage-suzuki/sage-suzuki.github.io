@@ -50,7 +50,7 @@ Co-Pilot expedited coding, yet understanding and verifying the generated code de
 Co-Pilot provided a structured starting point for documentation, reducing initial effort. Customization for project-specific requirements showcased the need for human input in tailoring documentation.
 
 *Quality assurance e.g., "What’s wrong with this code <code here>":* 
-ChatGPT highlighted potential issues, expediting the review process. Manual verification and understanding of the code demonstrated the importance of human expertise in quality assurance.
+ChatGPT would more often than not say there is nothing wrong with the code. In other words, ChatGPT wouldn't catch errors, and the user would have to have to create a prompt of the where the error would be, and still possibily be undetected.
 
 *Other uses in ICS 314 not listed:*
 ChatGPT assisted in generating initial test cases, yet refinement and validation were manual processes. The collaborative effort between AI and human expertise was evident in achieving comprehensive test coverage.
