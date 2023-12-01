@@ -11,9 +11,6 @@ labels:
   - CSS
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-framework/ui-framework.webp">
-<img width="400px" class="rounded float-start" src="../img/ui-framework/jack-watkins.jpg">
-
 In the world of software development, design patterns act as the strategic moves on a coding chessboard, much like a seasoned chess player planning their every move. They go beyond mere lines of code, serving as battle-tested tactics that developers use to tackle recurring challenges, resulting in a symphony of logic and efficiency in programming.
 
 ## The Symphony of Code Composition
