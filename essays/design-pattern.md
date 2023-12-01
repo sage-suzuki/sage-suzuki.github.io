@@ -9,7 +9,7 @@ labels:
   - Software Development
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/pattern/pattern.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/pattern.png">
 
 
 ## Code Symphony
