@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Game Changer"
+title: "Caught Between the Web"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
