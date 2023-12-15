@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "The Allure of Bootstrap 5"
-# All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
 labels:
@@ -11,8 +10,10 @@ labels:
   - CSS
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ui-framework/ui-framework.webp">
-<img width="400px" class="rounded float-start" src="../img/ui-framework/jack-watkins.jpg">
+<div style="text-align: center;">
+  <img src="../img/ui-framework/ui-framework.webp" alt="UI Frameworks" width="400px" class="rounded float-start pe-4">
+  <img src="../img/ui-framework/jack-watkins.jpg" alt="Jack Watkins" width="400px" class="rounded float-start">
+</div>
 
 UI Frameworks can initially appear as intricate as a new programming language, leaving many to ponder the necessity of diving into them when raw HTML and CSS seem like simpler alternatives. However, beneath the veil of complexity lies a wealth of benefits that make the journey into UI frameworks undeniably rewarding.
 
