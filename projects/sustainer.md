@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project-photos/sustainer.png
+image: img/sustainer.png
 title: "Sustainer: Reusable Takeout Program App for Zero Waste Oahu"
 date: 2023
 published: true
