@@ -14,6 +14,8 @@ labels:
 
 # Reflections on Software Engineering: Beyond Web Applications
 
+<img width="300px" class="rounded float-start pe-4" src="../img/swe.webp">
+
 ## Introduction
 
 As our class on software engineering draws to a close, it’s imperative to reflect on the comprehensive lessons learned, extending well beyond the confines of web application development. This course has been a journey through the myriad facets of software engineering, each contributing to a holistic understanding of this complex field. In this essay, I will delve into how fundamental software engineering concepts, specifically Agile Project Management, Design Patterns, and Ethics in Software Engineering, transcend the realm of web application development.
