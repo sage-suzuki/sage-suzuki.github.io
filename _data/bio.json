@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Sage Suzuki",
+    "label": "Student",
+    "picture": "https://github.com/sage-suzuki.png",
+    "email": "sagehs@hawaii.edu",
+    "phone": "808-785-7686",
+    "website": "https://sage-suzuki.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "sage-suzuki", "url": "http://github.com/sage-suzuki" },
+      { "network": "linkedin", "username": "sage-suzuki", "url": "http://linkedin.com/in/sage-suzuki" }
+    ]
+  },
+  "interests": [
+    { "name": "A.I." },
+    { "name": "Open Source" },
+    { "name": "Web App Development" },
+    { "name": "Cyber Security" },
+    { "name": "Cloud Computing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Win10", "Git/GitHub", "PowerShell" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2020-8-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "John A Burns School of Medicine",
+      "position": "OIT Assistant",
+      "website": "https://oit.jabsom.hawaii.edu/",
+      "startDate": "2023-06-20",
+      "endDate": "Present",
+      "summary": "General Assistant to OIT Department",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues for other departments",
+        "Assist with various projects, including website and databases"
+      ]
+    },
+    {
+      "company": "Hana Tea",
+      "position": "Tea Server",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2022-09-13",
+      "summary": "Developed expertise in various boba tea recipes",
+      "highlights": [
+        "Trained and supervised new team members",
+        "operated cash registers, processed transactions, and maintained accurate cash handling procedures"
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "position": "Online Technology Sales",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Sold and assembled a variety of products, including keyboards, ensuring customer satisfaction and timely delivery",
+      "highlights": [
+        "Managed and maintained inventory of equipment and products valued at over $10,000",
+        "Demonstrated expertise in tracking and organizing inventory to ensure
+optimal availability"
+      ]
+    }
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
