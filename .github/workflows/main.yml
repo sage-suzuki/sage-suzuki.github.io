@@ -14,9 +14,12 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-${{ github.sha }}
           restore-keys: |
             ${{ runner.os }}-gems-
+          fail-on-cache-miss: true
+
+      - run: ls -la vendor/bundle # Debugging step to confirm cache behavior
 
       - uses: ruby/setup-ruby@v1
         with:
@@ -25,7 +28,7 @@ jobs:
 
       - uses: limitusus/json-syntax-check@v1
         with:
-          pattern: ".*bio\\.json$"
+          pattern: "**/bio.json"
 
       - uses: helaili/jekyll-action@2.5.0
         with:
