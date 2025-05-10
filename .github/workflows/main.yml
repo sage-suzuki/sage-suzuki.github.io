@@ -26,10 +26,10 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
 
-      - name: JSON syntax check
-        uses: limitusus/json-syntax-check@v1
-        with:
-          pattern: ".*/bio\\.json$"
+      - name: Manual JSON syntax check
+        run: |
+          echo "Checking bio.json files for valid syntax..."
+          find . -name "bio.json" -exec jq empty {} \;
 
       - name: Build and deploy Jekyll site
         uses: helaili/jekyll-action@2.5.0
