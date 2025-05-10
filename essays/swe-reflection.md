@@ -1,11 +1,14 @@
+---
 layout: essay
 type: essay
-title: "Reflections on ICS 414: Building for the Real World"
+title: "Game Changer"
+# All dates must be YYYY-MM-DD format!
 date: 2025-05-09
 published: true
 labels:
   - Software Engineering
-  - Web Development
+  - AI
+---
 
 # Reflections on ICS 414: Building for the Real World
 
