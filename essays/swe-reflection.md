@@ -1,41 +1,32 @@
 ---
 layout: essay
 type: essay
-title: "Caught Between the Web"
-# All dates must be YYYY-MM-DD format!
-date: 2023-12-12
+title: "Reflections on ICS 414: Building for the Real World"
+date: 2025-05-09
 published: true
 labels:
   - Software Engineering
-  - AI
+  - Web Development
 ---
 
-
-
-# Reflections on Software Engineering: Beyond Web Applications
-
-<img width="300px" class="rounded float-start pe-4" src="../img/swe.webp">
+# Reflections on ICS 414: Building for the Real World
 
 ## Introduction
 
-As our class on software engineering draws to a close, it’s imperative to reflect on the comprehensive lessons learned, extending well beyond the confines of web application development. This course has been a journey through the myriad facets of software engineering, each contributing to a holistic understanding of this complex field. In this essay, I will delve into how fundamental software engineering concepts, specifically Agile Project Management, Design Patterns, and Ethics in Software Engineering, transcend the realm of web application development.
+This past semester in ICS 414 has been one of the most hands-on experiences in my academic journey. It gave me the chance to step outside the textbook and build something that could actually be used in a real-world setting. Our project centered around developing a web application for accounting firms—a tool that takes Excel spreadsheet data and turns it into clean, role-based visual dashboards for auditors, executives, and administrators.
 
-### Agile Project Management: A Universal Approach
+### From Excel Sheets to Graphs: Building Something Useful
 
-Agile Project Management has been a key focus of our learning. Known for its flexibility and adaptability, Agile transcends the boundaries of web development. This approach, characterized by iterative development and collaborative working, can be a game-changer in various project types.
+We started by identifying a real need: accounting firms needed a better way to interpret spreadsheet data quickly and securely. So, our team built a system that could read Excel files, process the data, and display it through graphs tailored to specific user roles. Admins could manage everything, while auditors and executives would only see what was relevant to them. This made the app feel personal and professional at the same time.
 
-#### Issue-Driven Project Management
+### Working Together and Learning Deployment
 
-A subset of Agile, Issue-Driven Project Management, involves managing tasks through issues or tickets. It’s a method I envision using beyond web applications. This style fosters a clear, organized workflow, essential for any project, be it in software development or even in non-technical fields like event management.
+One of the highlights of the semester was learning how to collaborate effectively in a development team. We used GitHub to manage our code, and Vercel to deploy our app. It was the first time I’d really seen a project go live on the web—and it was incredibly rewarding. Seeing how small changes could be pushed and immediately reflected online made development feel fast and real.
 
-### Design Patterns: The Building Blocks of Software Engineering
+### Challenges and Growth
 
-Design Patterns have been another cornerstone of our learning. These are not just templates for coding but are fundamental to creating efficient, scalable, and maintainable software. Understanding and applying design patterns, like Singleton or Observer, provide invaluable insights into solving common software engineering problems, regardless of the application domain.
-
-### Ethics in Software Engineering: A Guiding Light
-
-Perhaps the most universally applicable lesson has been the importance of Ethics in Software Engineering. This course has instilled a deep understanding of the moral responsibilities inherent in our profession. Whether developing web applications or any other software, the principles of ensuring user privacy, data security, and ethical decision-making remain paramount.
+Not everything was smooth. There were technical challenges—especially around handling user authentication and making sure the right people saw the right data. But those roadblocks pushed me to dig deeper into backend logic, secure routing, and frontend design. Just as importantly, I learned the value of asking questions, checking in with teammates, and iterating on feedback.
 
 ## Conclusion
 
-In conclusion, this class was more than just about learning web application development. It was a journey through the expansive landscape of software engineering. The principles of Agile Project Management, the universality of Design Patterns, and the crucial role of ethics are just a few of the numerous lessons that will guide me in my future endeavors in this ever-evolving field.
+ICS 414 helped me grow both technically and personally. I came away with stronger development skills, a better understanding of team collaboration, and confidence in building something from scratch that people might actually use. This project is now a solid part of my professional portfolio, and I’m proud of everything we accomplished together this semester.
