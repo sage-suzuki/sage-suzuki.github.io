@@ -9,27 +9,33 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v4
 
+      # Step 2: Debugging the cache key
+      - name: Debug Cache Key
+        run: echo "Cache Key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}"
+
+      # Step 3: Cache Ruby gems
       - uses: actions/cache@v4
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}-${{ github.sha }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-          fail-on-cache-miss: true
 
-      - run: ls -la vendor/bundle # Debugging step to confirm cache behavior
-
+      # Step 4: Set up Ruby environment
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
 
+      # Step 5: Validate JSON files
       - uses: limitusus/json-syntax-check@v1
         with:
           pattern: "**/bio.json"
 
+      # Step 6: Build and deploy the Jekyll site
       - uses: helaili/jekyll-action@2.5.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
