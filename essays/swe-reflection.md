@@ -29,4 +29,6 @@ Not everything was smooth. There were technical challenges, especially around ha
 
 ## Conclusion
 
-ICS 414 helped me grow both technically and personally. I came away with stronger development skills, a better understanding of team collaboration, and confidence in building something from scratch that people might actually use. This project is now a solid part of my professional portfolio, and I am proud of everything we accomplished together this semester.
+ICS 414 helped me grow both technically and personally. I came away with stronger development skills, a better understanding of team collaboration, and confidence in building something from scratch that people might actually use. I learned how to work with real-world tools and frameworks—like React, Next.js, and Node.js—and how to integrate APIs and authentication systems in a secure, scalable way. I also developed a better appreciation for clean code, version control best practices, and continuous deployment.
+
+On the personal side, I learned how to break down complex requirements into actionable tasks, communicate effectively across different roles, and adapt quickly when things didn’t go according to plan. This project not only strengthened my technical foundation but also taught me resilience, accountability, and how to contribute meaningfully to a team. It's now a solid part of my professional portfolio, and I am proud of everything we accomplished together this semester.
