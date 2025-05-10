@@ -25,7 +25,7 @@ jobs:
 
       - uses: limitusus/json-syntax-check@v1
         with:
-          patten: ".*bio\\.json$"
+          pattern: ".*bio\\.json$"
 
       - uses: helaili/jekyll-action@2.5.0
         with:
