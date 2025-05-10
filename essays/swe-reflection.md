@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Game Changer"
-# All dates must be YYYY-MM-DD format!
+title: "Reflections on ICS 414: Building for the Real World"
 date: 2025-05-09
 published: true
 labels:
