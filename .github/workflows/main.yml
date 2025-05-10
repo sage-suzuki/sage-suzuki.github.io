@@ -28,7 +28,6 @@ jobs:
 
       - name: Manual JSON syntax check
         run: |
-          echo "Checking bio.json files for valid syntax..."
           find . -name "bio.json" -exec jq empty {} \;
 
       - name: Build and deploy Jekyll site
